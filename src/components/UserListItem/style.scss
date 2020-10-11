@@ -1,0 +1,15 @@
+.user-avatar {
+  width: 80px;
+  position: relative;
+  display: inline-block;
+  >img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+.user-login {
+  font-size: 18px;
+  font-weight: 500;
+  color: #404040
+}

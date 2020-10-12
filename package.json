@@ -27,6 +27,7 @@
   "dependencies": {
     "classnames": "^2.2.6",
     "connected-react-router": "^6.8.0",
+    "isomorphic-fetch": "^3.0.0",
     "parse-link-header": "^1.0.1",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
@@ -35,6 +36,7 @@
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
     "redux": "^4.0.5",
-    "redux-logger": "^3.0.6"
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
   }
 }

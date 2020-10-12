@@ -1,5 +1,5 @@
 # accesslabtaiwan
-This project is an exercise requested by Access Taiwan Lab.
+This project is an exercise requested by Access Taiwan Lab. All features including optional ones are implemented. 
 
 ## installation
 This project is hosted by webpack dev server 
